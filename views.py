@@ -4,4 +4,5 @@ def index(request):
     return HttpResponse('OK')
 print('hello')
 print('lel')
+print('git push')
 # Create your views here.
